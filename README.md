@@ -10,6 +10,9 @@ Repository for the code and submissions to the Author Identification competition
 ### Small changes
 * [x] Add dropout and/or early stopping to avoid overfitting
 
+### NLP
+* [ ] Stemming!!!!
+
 ### Embeddings
 * [x] Try changing the hyperparameters for the vector generation (smaller vectors)
 * [x] Try changing the hyperparameters for the vector generation (bigger vectors) 
