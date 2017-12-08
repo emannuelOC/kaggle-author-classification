@@ -11,8 +11,8 @@ Repository for the code and submissions to the Author Identification competition
 * [x] Add dropout and/or early stopping to avoid overfitting
 
 ### Embeddings
-* [ ] Try changing the hyperparameters for the vector generation (smaller vectors)
-* [ ] Try changing the hyperparameters for the vector generation (bigger vectors) 
+* [x] Try changing the hyperparameters for the vector generation (smaller vectors)
+* [x] Try changing the hyperparameters for the vector generation (bigger vectors) 
 * [ ] Try pretrained vectors (since maybe the data isn't enough to train the vectors)
 * [ ] Try GloVe (although it does make sense to use w2v since I guess the three authors are closer semantically than syntactically
 * [ ] Try some local representation.. well, who knows? maybe this is not the case to use those fancy embeddings, right? 
